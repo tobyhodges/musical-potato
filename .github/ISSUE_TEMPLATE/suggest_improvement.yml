@@ -7,8 +7,8 @@ body:
         label: Location for improvement
         description: Does your suggestion relate to a particular part of the repository, or the lesson/project as a whole?
         options:
-        - label: The whole lesson/project
-        - label: A particular section/episode/page
+          - label: The whole lesson/project
+          - label: A particular section/episode/page
   - type: input
     id: location-details
     attributes:
