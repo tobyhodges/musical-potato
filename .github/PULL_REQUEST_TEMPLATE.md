@@ -1,16 +1,12 @@
-<!-- 1. Does this pull request address an open issue on the repository?
-   If so, please add 'Closes #NN' below, where NN is the issue number. -->
+If this pull request addresses an open issue on the repository, please add 'Closes #NN' below, where NN is the issue number.
 
+Please briefly summarise the changes made in the pull request, and the reason(s) for making these changes.
 
-
-<!-- 2. Please briefly summarise the changes made in the pull request. One or two sentences.
-   Try to include any context that might help the Maintainers understand the purpose of the contribution,
-   including links to any relevant discussions that have taken place elsewhere.-->
-
+If any relevant discussions have taken place elsewhere, please provide links to these.
 
 <details>
 
-For more guidance on how to contribute changes to a Carpentries lesson, 
+For more guidance on how to contribute changes to a Carpentries project, 
 please review [the Contributing Guide](CONTRIBUTING.md) 
 and [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
