@@ -1,11 +1,6 @@
 name: Suggest an improvement in a specific location
 description: Tell us about how a particular section of the lesson could be improved
 body:
-  - type: input
-    id: location-details
-    attributes:
-      label: Which part of the content does your suggestion apply to?
-      description: Please provide a URL, the title of the relevant section or page, a filename, etc.
   - type: textarea
     id: details
     attributes:
@@ -13,6 +8,11 @@ body:
       description: Please provide details of the improvement you are suggesting, to make it easier for the Maintainers and other community members to address the issue.
     validations:
       required: true
+  - type: input
+    id: location-details
+    attributes:
+      label: Which part of the content does your suggestion apply to?
+      description: Please provide a URL, the title of the relevant section or page, a filename, etc.
   - type: markdown
     attributes:
       value: >
