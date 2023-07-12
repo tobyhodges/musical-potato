@@ -1,4 +1,4 @@
-name: Report a Problem
+name: Report a problem
 description: Tell us about something that needs to be fixed
 body:
   - type: textarea
